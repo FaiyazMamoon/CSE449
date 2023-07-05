@@ -1,0 +1,17 @@
+Link to unlisted YouTube video:
+https://youtube.com/.....
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1eVcGLI5UgQDz1ZjWS_WIkxbK6fy8kv_tlaRhhsnBfns/edit?usp=sharing
+
+Paper title:
+Fed-NTP: A Federated Learning Algorithm for Network Traffic Prediction in VANET
+
+Link to the paper:
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9950054
+
+Group Number:
+09
+
+Individual Submitter:
+20101499 Faiyaz Al-Mamoon
